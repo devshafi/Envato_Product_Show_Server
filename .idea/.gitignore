@@ -1,5 +1,0 @@
-# Default ignored files
-/workspace.xml
-
-# renove environment variable from uploading in git
-.env
